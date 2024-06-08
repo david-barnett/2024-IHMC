@@ -2,10 +2,8 @@
 title: "2024 IHMC David Barnett"
 ---
 
-This is a Quarto website.
+Coming soon. This is a blank template.
+
+
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
