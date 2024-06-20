@@ -3,12 +3,52 @@ title: "2024 IHMC poster - David Barnett - Why do babies cry?"
 format: 
     dashboard:
       orientation: columns
+      lightbox: true
 ---
 
-## Col
+![](images/poster-title.png){fig-align="center" width="1000"}
 
-![](images/poster-main.png)
-
-## Col
+## KOALA
 
 
+::: {style="text-align: center;"}
+**Extensive Questionnaire Data from over 2700 families**
+
+0-3 months, 4-7 months, 8-12 months
+
+![](images/poster-koala.png)
+
+**GI symptoms are common in early infancy and often co-occur**
+
+![](images/symptoms-koala.png)
+
+**Colic** *= Recurrent & prolonged crying with no obvious cause"*\
+:::
+
+## Microbiota
+
+::: {style="text-align: center;"}
+**Infant Gut Microbiota Composition data from over 1000 infants**
+
+Fecal sample at 1 month (16S V4 amplicon sequencing)
+
+![](images/poster-microbiota.png)
+
+
+![](images/microbiota-koala.png)
+:::
+
+## HMO
+
+::: {style="text-align: center;"}
+
+**Human Milk Oligosaccharide data from over 250 mothers**
+
+Breast milk sample at 1 month (LCMS)
+
+![](images/poster-hmo.png)
+LNH & LNnH associated with less constipation in breastfed infants
+
+![](images/hmo-koala.png)
+
+:::
