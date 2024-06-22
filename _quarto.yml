@@ -5,12 +5,24 @@ project:
 dashboard:
   title: "2024 IHMC David Barnett"
 
+website:
+  page-footer:
+      left:
+      - icon: code-slash
+        href: https://david-barnett.github.io/microViz
+      center:
+        "David Barnett, Carel Thijs, Monique Mommers, Martha Endika, Cynthia Klostermann, Henk Schols, Hauke Smidt, Arjen Nauta, Ilja Arts, John Penders"
+      right:
+      - icon: github
+        href: https://github.com/david-barnett
+      - icon: linkedin
+        href: https://www.linkedin.com/in/-david-barnett-
+      - icon: envelope
+        href: mailto:david.barnett@maastrichtuniversity.nl
+
 format:
   dashboard:
     light: flatly
-    dark: darkly
     css: styles.css
     toc: true
-
-
 

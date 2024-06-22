@@ -4,12 +4,18 @@ format:
     dashboard:
       orientation: columns
       lightbox: true
+      page-footer:
+        left: "Copyright 2021, Norah Jones"
+        right:
+        - icon: github
+          href: https://github.com/
+        - icon: twitter
+          href: https://twitter.com/
 ---
 
 ![](images/poster-title.png){fig-align="center" width="1000"}
 
 ## KOALA
-
 
 ::: {style="text-align: center;"}
 **Extensive Questionnaire Data from over 2700 families**
